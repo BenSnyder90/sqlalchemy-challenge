@@ -1,4 +1,4 @@
-# sqlalchemy-challenge
+# sqlalchemy-challenge - Hawaii Climate Analysis
 CWRU Data Analysis Bootcamp - SQLAlchemy Homework
 ----------------------------
 ## Objectives
